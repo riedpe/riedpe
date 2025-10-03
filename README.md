@@ -35,10 +35,10 @@ Actualmente desarrollo proyectos relacionados con **documentación, archivo, SEO
 ---
 
 ## 📫 How to reach me
-- [LinkedIn](https://www.linkedin.com/) *(añade tu enlace aquí)*  
+- [LinkedIn](https://www.linkedin.com/) 
 - [Email](mailto:tuemail@example.com)  
 
 ---
 
 ## ⚡ Fun fact
-Además de mi pasión por la documentación y el SEO, disfruto mucho de la **aviación** y actividades al aire libre como **pasear perros en grupo** 🐕✈️.  
+Además de mi pasión por la documentación y el SEO, disfruto mucho de la **aviación** y actividades al aire libre como **pasear perros** 🐕✈️.  
