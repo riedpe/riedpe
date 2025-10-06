@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Ricardo Manuel Edreira  
+# Hi there 👋, I'm Ricardo Manuel Edreira Penas
 
 🎯 **Bibliotecario, Documentalista y Especialista en Gestión Documental & SEO**  
 Apasionado por la organización de la información, la digitalización y el posicionamiento web.  
